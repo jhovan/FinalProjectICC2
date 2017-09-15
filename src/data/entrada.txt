@@ -1,0 +1,16 @@
+1000
+1 llavero 223 fundicion por molde
+2 exhibidor_de_llaveros 23 rotomoldeo
+3 lampara_de_exhibicion 15 madera contrachapada
+4 silla 121 tripla maquinado en cnc
+5 vehiculo_para_ancianos 5 tubo de 1 pulgada doblado
+6 portallaves_con_pizarron 458 inyección de polietileno
+7 asador_para_carnes 87 rechazado de lamina de acero inoxidable
+8 perfume 289 vidrio soplado
+9 portamonedas 100 resina maquinada en cnc
+10 telefono_para_gente_con_artritis 120 inyeccion de silicon y de polipropileno
+11 juego_de_te 499 cerámica de alta temperatura
+12 modulo_hidroponico 72 inyeccion de polipropileno
+13 perchero_valet 500 varilla de acero de 3/4 doblada
+14 juguete_de_reaccion 748 inyeccion de polietileno y polipropileno con cobre torneado
+15 lampara_de_exhibicion 721 madera contrachapada

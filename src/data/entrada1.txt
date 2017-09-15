@@ -1,0 +1,7 @@
+50
+1 sombrilla 45 material: poliuretano
+2 botas_para_lluvia 46 material: polietileno
+3 gabardina 10 material: poliester
+4 boina 10 material: sintetico
+5 impermeable 35 material: pvc
+6 sombrilla 45 material: poliuretano

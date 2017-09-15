@@ -1,0 +1,11 @@
+225
+1 esmalte_rojo 3 cono 9
+2 esmalte_agua_marina 5 cono 7
+3 esmalte_cafe_grisaceo 9 cono 7
+4 esmalte_transparente 3 cono 10
+5 esmalte_blanco 2 cono 10
+6 esmalte_cobrizo 1 cono 9
+7 esmalte_azul_grisaceo 7 cono_8
+8 esmalte_verde_limon 4 cono_7
+9 esmalte_miel 6 cono_7
+10 esmalte_blanco 2 cono 10

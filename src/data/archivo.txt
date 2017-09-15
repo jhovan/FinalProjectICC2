@@ -1,0 +1,29 @@
+
+Tamaño:50	Objetos:6	Contenedores usados:5
+
+
+Contenedor 3	 Capacidad disponible: 30	Objetos: 2
+Contenido:
+Id:3	Nombre:gabardina	Tamano:10	Desripcion:material: poliester 
+Id:4	Nombre:boina	Tamano:10	Desripcion:material: sintetico 
+
+
+Contenedor 4	 Capacidad disponible: 15	Objetos: 1
+Contenido:
+Id:5	Nombre:impermeable	Tamano:35	Desripcion:material: pvc 
+
+
+Contenedor 5	 Capacidad disponible: 5	Objetos: 1
+Contenido:
+Id:6	Nombre:sombrilla	Tamano:45	Desripcion:material: poliuretano 
+
+
+Contenedor 1	 Capacidad disponible: 5	Objetos: 1
+Contenido:
+Id:1	Nombre:sombrilla	Tamano:45	Desripcion:material: poliuretano 
+
+
+Contenedor 2	 Capacidad disponible: 4	Objetos: 1
+Contenido:
+Id:2	Nombre:botas_para_lluvia	Tamano:46	Desripcion:material: polietileno 
+
